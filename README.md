@@ -2,8 +2,6 @@
 
 A beautifully animated, feature-rich task management application built with modern web technologies. Toodo helps you organize your tasks with a focus on productivity and user experience.
 
-![Toodo App Banner](https://i.imgur.com/placeholder.png)
-
 ## 🌐 Live Preview
 
 Check out the live application: [Toodo Task App](https://toodo-task.netlify.app/)
